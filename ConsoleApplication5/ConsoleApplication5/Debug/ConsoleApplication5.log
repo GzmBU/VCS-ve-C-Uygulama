@@ -1,0 +1,2 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\gizem\source\repos\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(4,1): error C4430: tür belirticisi eksik - int varsayıldı. Not: C++ varsayılan int desteği içermez
